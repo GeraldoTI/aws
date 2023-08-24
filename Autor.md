@@ -11,3 +11,6 @@
 # AWS Educate Getting Started with Networking
 
 # Certificação em processo Profissional de nuvem certificado pela AWS
+
+
+https://mm.tt/app/map/2905451294?t=OPPzYptZLE
