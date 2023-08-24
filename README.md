@@ -1,6 +1,6 @@
-# aws
 
-#Você quer aprender os conceitos básicos da AWS, a maior plataforma de computação em nuvem do mundo? Você quer criar projetos incríveis usando os serviços da AWS, como EC2, S3, Lambda e muito mais? Você quer compartilhar seus conhecimentos e experiências com outros desenvolvedores no GitHub?
+
+Você quer aprender os conceitos básicos da AWS, a maior plataforma de computação em nuvem do mundo? Você quer criar projetos incríveis usando os serviços da AWS, como EC2, S3, Lambda e muito mais? Você quer compartilhar seus conhecimentos e experiências com outros desenvolvedores no GitHub?
 
 Se você respondeu sim a essas perguntas, então este curso é para você! Neste curso de AWS fondation, você vai aprender:
 
